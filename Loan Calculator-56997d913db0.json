@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "loan-calculator-7f21f",
+  "private_key_id": "56997d913db06f111c2a4d8ed446baedaec829dc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDvZ4dWYrut9vaO\nuFsBE9kO2mSPsE1KlkQqPuK4MU/QRbopp/O7/IQMwndpjiR4u/uWlGUDPa+bYgQ8\nc1BR1MtDTrkvSyengrn0l4Gvp92mYhucRPDK6RS5JlLXgqVSU2mCSL2e2EWCc4Oi\no4cjPBLcjSlc+D4lraCZitkmkKAYUVid/fR5EeUbqM0CMzWpYaaBr2qGIz3rDFVb\nYWPQdf9lC4lUzBdNnX+PteyUOA3rI/pEOo2G3zqYeTTk9/JT0UuOVmw66NNOtN7d\naFSlNILVluUub8G4Z5qG3dhj1GBeDwcRTht51JS/bjg8WqbLqVNdZ4nB9KLraVCm\nhXCdFL29AgMBAAECggEACcKC+DDYvWAYz5sw7JOSUQJywI/bqsuC9mTvabpq6k75\nZqrX6yVBfeKsqxM2Jezl9g7RKmdoohFGIm/CCb/+1FzgfE7YTEIuUgweJ5rUlKyh\nuwZteZw0cdLf5DTJiBhp7/uGrXPcK5QJfQclInjXvQGNOuLM58zTBAdu0F1rhWox\nXm3KA0fBg3+0oSlJsYkC+i9TUfULEtNYg8Ur3/AT3fDwvcRUYvMYCgRy8DlKmiT3\n9QqDz7prrXcOBR5NdYaCCcXV/Fp/+MeOkjYBV4jxC5dAyYCrOYRIkVt64dTnTvok\nUksaGr9knR1xc3BhbDIyUu0sOVo+EVcJ6Y0gDufI4QKBgQD7UV8KBEy0PCm57ySH\n1WdoCHRqZAJB2SuQnFvNNGwNP1GJbmI4sG+HwiZPR+qZowdx8D+oWpnTBZ7FDiLD\nQ8qZ+4IZiIYwNtMaKd+vLZQEbDAsbaJ1VEfGDqB2gzDSsUSnmK24hGN65iqMnkVc\nXUIELNHOlsr/hPMOVJc9YKd7XQKBgQDz3VZ1pew7ddxXJDdwczTPqnm8h/KnbYLV\nvh4gq/87qVOBZrrqlp4x9BSpPBZgPPEkONGKSnSORVa2obHwiMh6Z11E56k/S/S0\n48U+6jik4RiwrhLpcSF5hoky5ap2eYJQSlSCTjFfK/kkYfMxamRKBx7IjoEmr6Hb\nEXc7f1KF4QKBgQDEDiisMcp82GpcyLig1tRCjkXzMW2pXPflanUbUofwlbLQGbK6\nMrnvGIC2XI4hqNMICbo/Zd6Whs3jQDHSTrJhCZnmvWChgEOTJ5N+n3nXMWcrYaPZ\nEBSl54c6rQGLfArpC+yKA41vtNsAs/+8HGyBwU0zcuOODnNmfIs3sI03aQKBgQCH\nkWdsNdZS492fMAoF4HXecGYGsgjqnM2cJ3m2LgfQ0fwTNtn4acz99jO6NSY3UAm6\nWj/awjNzmAZxtwglsNTKf0XxdVu4TXB3UxwnMqxUtLI2Hj9zOSoj1e/VtKmD/V69\nZeT/H5sAzoBNgopg0UV5heXOFrKjoAW5tEb1c32b4QKBgQCt0iU1pTXBcvClwL7A\nKt2WJ78OIocLYFrmtfzw+xkG/g/KYTkvhri2AIDBRW3WmLU1QsqY/qjW/SAuS27k\npmD6UcfHUKRv9MLs0En346u3n38Ftq1Sg9LA3CZBxrEVQYeRoGI7Tr3NYL5XS3QB\nYD1gJMmTAMUFfALzMS/i3VOBVg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "loancalc-api@loan-calculator-7f21f.iam.gserviceaccount.com",
+  "client_id": "112889561170398424834",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/loancalc-api%40loan-calculator-7f21f.iam.gserviceaccount.com"
+}
